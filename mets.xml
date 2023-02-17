@@ -12349,67 +12349,67 @@
     </mets:fileGrp>
     <mets:fileGrp USE="FULLTEXT">
       <mets:file ID="FILE_0005_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0005_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0005_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0007_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0007_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0007_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0008_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0008_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0008_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0009_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0009_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0009_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0068_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0068_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0068_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0073_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0073_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0073_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0075_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0075_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0075_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0133_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0133_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0133_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0139_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0139_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0139_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0141_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0141_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0141_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0204_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0204_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0204_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0266_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0266_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0266_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0324_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0324_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0324_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0364_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0364_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0364_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0416_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0416_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0416_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0421_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0421_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0421_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0470_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0470_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0470_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0475_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0475_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0475_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0477_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0477_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0477_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0478_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0478_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0478_FULLTEXT.xml"/>
       </mets:file>
       <mets:file ID="FILE_0533_FULLTEXT" MIMETYPE="text/xml">
-        <mets:FLocat LOCTYPE="URL" xlink:href="FULLTEXT/FILE_0533_FULLTEXT.xml"/>
+        <mets:FLocat LOCTYPE="URL" xlink:href="https://github.com/bertsky/schuetz-test/raw/master/FULLTEXT/FILE_0533_FULLTEXT.xml"/>
       </mets:file>
     </mets:fileGrp>
   </mets:fileSec>
