@@ -36,8 +36,8 @@
   </Description>
   <Styles/>
   <Tags>
-    <LayoutTag ID="layouttag-paragraph" LABEL="paragraph"/>
     <LayoutTag ID="layouttag-header" LABEL="header"/>
+    <LayoutTag ID="layouttag-paragraph" LABEL="paragraph"/>
   </Tags>
   <Layout>
     <Page ID="FILE_0416_LAREX" PHYSICAL_IMG_NR="0" WIDTH="2376" HEIGHT="3648">
@@ -45,11 +45,22 @@
         <Shape>
           <Polygon POINTS="95,100 2239,100 2239,3565 95,3565"/>
         </Shape>
-        <GraphicalElement ID="region_0031" HEIGHT="31" WIDTH="5" HPOS="2290" VPOS="2731">
+        <TextBlock ID="r10" HEIGHT="163" WIDTH="654" HPOS="765" VPOS="137" TAGREFS="layouttag-header" IDNEXT="region_0008">
           <Shape>
-            <Polygon POINTS="2291,2731 2291,2733 2290,2734 2290,2735 2291,2736 2291,2758 2292,2759 2292,2761 2293,2762 2294,2761 2294,2760 2295,2759 2295,2747 2294,2746 2294,2742 2293,2741 2293,2733 2292,2732 2292,2731 2291,2731"/>
+            <Polygon POINTS="765,300 765,137 1419,137 1419,300"/>
           </Shape>
-        </GraphicalElement>
+          <TextLine ID="l18" HEIGHT="142" WIDTH="616" HPOS="786" VPOS="154">
+            <Shape>
+              <Polygon POINTS="786,296 786,154 1402,154 1402,296"/>
+            </Shape>
+            <String ID="l18-word0" CONTENT=""/>
+            <String ID="l18-dummy-Word" HEIGHT="142" WIDTH="616" HPOS="786" VPOS="154" CONTENT="INDEX">
+              <Shape>
+                <Polygon POINTS="786,296 786,154 1402,154 1402,296"/>
+              </Shape>
+            </String>
+          </TextLine>
+        </TextBlock>
         <TextBlock ID="region_0008" HEIGHT="84" WIDTH="216" HPOS="1098" VPOS="309" TAGREFS="layouttag-paragraph" IDNEXT="r38">
           <Shape>
             <Polygon POINTS="1202,309 1201,310 1200,310 1199,311 1197,311 1196,312 1195,312 1193,314 1193,317 1191,319 1190,318 1190,315 1176,315 1175,316 1170,316 1169,317 1157,317 1156,318 1144,318 1143,319 1139,319 1138,320 1134,320 1133,321 1113,321 1112,322 1110,322 1109,323 1107,323 1107,324 1103,328 1103,329 1102,330 1101,330 1099,332 1099,334 1098,335 1098,357 1099,358 1102,358 1103,359 1103,363 1104,364 1104,365 1103,366 1103,378 1104,379 1104,380 1105,381 1105,382 1107,384 1108,384 1109,385 1110,385 1111,386 1115,386 1116,387 1128,387 1129,388 1134,388 1135,389 1136,389 1137,390 1138,390 1139,391 1140,391 1141,392 1143,392 1144,393 1154,393 1156,391 1157,391 1158,390 1163,390 1164,389 1165,389 1167,387 1168,387 1170,385 1172,385 1173,384 1174,384 1175,383 1177,383 1178,382 1189,382 1191,384 1200,384 1200,383 1203,380 1211,380 1212,379 1257,379 1258,378 1293,378 1294,377 1299,377 1300,376 1311,376 1313,374 1313,371 1314,370 1314,360 1313,359 1313,358 1312,357 1312,356 1311,355 1311,351 1310,350 1310,349 1309,348 1309,344 1308,343 1308,334 1307,333 1307,332 1306,331 1306,323 1301,318 1273,318 1272,319 1269,319 1268,320 1237,320 1236,319 1236,318 1235,317 1235,316 1234,315 1234,314 1231,311 1225,311 1224,310 1213,310 1212,311 1211,310 1211,309"/>
@@ -224,22 +235,6 @@
             </String>
           </TextLine>
         </TextBlock>
-        <TextBlock ID="r10" HEIGHT="163" WIDTH="654" HPOS="765" VPOS="137" TAGREFS="layouttag-header" IDNEXT="region_0008">
-          <Shape>
-            <Polygon POINTS="765,300 765,137 1419,137 1419,300"/>
-          </Shape>
-          <TextLine ID="l18" HEIGHT="142" WIDTH="616" HPOS="786" VPOS="154">
-            <Shape>
-              <Polygon POINTS="786,296 786,154 1402,154 1402,296"/>
-            </Shape>
-            <String ID="l18-word0" CONTENT=""/>
-            <String ID="l18-dummy-Word" HEIGHT="142" WIDTH="616" HPOS="786" VPOS="154" CONTENT="INDEX">
-              <Shape>
-                <Polygon POINTS="786,296 786,154 1402,154 1402,296"/>
-              </Shape>
-            </String>
-          </TextLine>
-        </TextBlock>
         <TextBlock ID="r11" HEIGHT="260" WIDTH="768" HPOS="890" VPOS="1516" TAGREFS="layouttag-paragraph">
           <Shape>
             <Polygon POINTS="890,1776 890,1516 1658,1516 1658,1776 1653,1776"/>
@@ -256,6 +251,11 @@
             </String>
           </TextLine>
         </TextBlock>
+        <GraphicalElement ID="region_0031" HEIGHT="31" WIDTH="5" HPOS="2290" VPOS="2731">
+          <Shape>
+            <Polygon POINTS="2291,2731 2291,2733 2290,2734 2290,2735 2291,2736 2291,2758 2292,2759 2292,2761 2293,2762 2294,2761 2294,2760 2295,2759 2295,2747 2294,2746 2294,2742 2293,2741 2293,2733 2292,2732 2292,2731 2291,2731"/>
+          </Shape>
+        </GraphicalElement>
       </PrintSpace>
     </Page>
   </Layout>
