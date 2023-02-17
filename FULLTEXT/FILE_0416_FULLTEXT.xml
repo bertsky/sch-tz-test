@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd" SCHEMAVERSION="4.2">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ORIGINAL/FILE_0416_ORIGINAL.jpg</fileName>
+    </sourceImageInformation>
+    <Processing ID="ocrd-sbb-binarize-0">
+      <processingStepDescription>preprocessing/optimization/binarization</processingStepDescription>
+      <processingStepSettings>{"ocrd-sbb-binarize": "0.0.11", "ocrd/core": "2.45.1"}</processingStepSettings>
+      <processingSoftware>
+        <softwareName>ocrd-sbb-binarize</softwareName>
+      </processingSoftware>
+    </Processing>
+    <Processing ID="ocrd-eynollah-segment-1">
+      <processingStepDescription>layout/segmentation/region</processingStepDescription>
+      <processingStepSettings>{"ocrd-eynollah-segment": "0.0.11", "ocrd/core": "2.45.1"}</processingStepSettings>
+      <processingSoftware>
+        <softwareName>ocrd-eynollah-segment</softwareName>
+      </processingSoftware>
+    </Processing>
+    <Processing ID="ocrd-tesserocr-recognize-2">
+      <processingStepDescription>layout/segmentation/region</processingStepDescription>
+      <processingStepSettings>{"ocrd-tesserocr-recognize": "0.14.0 (tesseract 5.1.0)", "ocrd/core": "2.45.1"}</processingStepSettings>
+      <processingSoftware>
+        <softwareName>ocrd-tesserocr-recognize</softwareName>
+      </processingSoftware>
+    </Processing>
+    <Processing ID="ocrd-dummy-3">
+      <processingStepDescription>preprocessing/optimization</processingStepDescription>
+      <processingStepSettings>{"copy_files": "True"}</processingStepSettings>
+      <processingSoftware>
+        <softwareName>ocrd-dummy</softwareName>
+      </processingSoftware>
+    </Processing>
+  </Description>
+  <Styles/>
+  <Tags>
+    <LayoutTag ID="layouttag-paragraph" LABEL="paragraph"/>
+    <LayoutTag ID="layouttag-header" LABEL="header"/>
+  </Tags>
+  <Layout>
+    <Page ID="FILE_0416_LAREX" PHYSICAL_IMG_NR="0" WIDTH="2376" HEIGHT="3648">
+      <PrintSpace HEIGHT="3465" WIDTH="2144" HPOS="95" VPOS="100">
+        <Shape>
+          <Polygon POINTS="95,100 2239,100 2239,3565 95,3565"/>
+        </Shape>
+        <GraphicalElement ID="region_0031" HEIGHT="31" WIDTH="5" HPOS="2290" VPOS="2731">
+          <Shape>
+            <Polygon POINTS="2291,2731 2291,2733 2290,2734 2290,2735 2291,2736 2291,2758 2292,2759 2292,2761 2293,2762 2294,2761 2294,2760 2295,2759 2295,2747 2294,2746 2294,2742 2293,2741 2293,2733 2292,2732 2292,2731 2291,2731"/>
+          </Shape>
+        </GraphicalElement>
+        <TextBlock ID="region_0008" HEIGHT="84" WIDTH="216" HPOS="1098" VPOS="309" TAGREFS="layouttag-paragraph" IDNEXT="r38">
+          <Shape>
+            <Polygon POINTS="1202,309 1201,310 1200,310 1199,311 1197,311 1196,312 1195,312 1193,314 1193,317 1191,319 1190,318 1190,315 1176,315 1175,316 1170,316 1169,317 1157,317 1156,318 1144,318 1143,319 1139,319 1138,320 1134,320 1133,321 1113,321 1112,322 1110,322 1109,323 1107,323 1107,324 1103,328 1103,329 1102,330 1101,330 1099,332 1099,334 1098,335 1098,357 1099,358 1102,358 1103,359 1103,363 1104,364 1104,365 1103,366 1103,378 1104,379 1104,380 1105,381 1105,382 1107,384 1108,384 1109,385 1110,385 1111,386 1115,386 1116,387 1128,387 1129,388 1134,388 1135,389 1136,389 1137,390 1138,390 1139,391 1140,391 1141,392 1143,392 1144,393 1154,393 1156,391 1157,391 1158,390 1163,390 1164,389 1165,389 1167,387 1168,387 1170,385 1172,385 1173,384 1174,384 1175,383 1177,383 1178,382 1189,382 1191,384 1200,384 1200,383 1203,380 1211,380 1212,379 1257,379 1258,378 1293,378 1294,377 1299,377 1300,376 1311,376 1313,374 1313,371 1314,370 1314,360 1313,359 1313,358 1312,357 1312,356 1311,355 1311,351 1310,350 1310,349 1309,348 1309,344 1308,343 1308,334 1307,333 1307,332 1306,331 1306,323 1301,318 1273,318 1272,319 1269,319 1268,320 1237,320 1236,319 1236,318 1235,317 1235,316 1234,315 1234,314 1231,311 1225,311 1224,310 1213,310 1212,311 1211,310 1211,309"/>
+          </Shape>
+          <TextLine ID="region_0008_line_0001" HEIGHT="89" WIDTH="216" HPOS="1098" VPOS="304">
+            <Shape>
+              <Polygon POINTS="1205,304 1203,306 1202,306 1201,307 1200,307 1200,308 1199,309 1199,311 1198,312 1197,312 1197,316 1196,317 1196,318 1195,319 1193,319 1192,320 1143,320 1142,321 1137,321 1134,324 1118,324 1116,326 1116,345 1117,346 1117,348 1119,350 1118,351 1109,351 1108,352 1098,352 1098,378 1122,378 1124,380 1124,382 1125,383 1137,383 1139,385 1139,393 1158,393 1158,391 1162,387 1163,387 1164,386 1165,386 1166,385 1195,385 1196,384 1208,384 1209,383 1246,383 1247,382 1267,382 1268,381 1303,381 1304,380 1313,380 1314,379 1314,347 1307,347 1306,346 1306,344 1305,344 1304,343 1304,342 1302,340 1302,337 1301,336 1301,327 1300,326 1300,325 1299,324 1299,323 1298,322 1298,321 1296,321 1295,320 1280,320 1279,319 1277,319 1276,318 1274,318 1273,317 1269,317 1268,316 1266,316 1265,315 1251,315 1250,314 1244,314 1243,313 1242,313 1241,312 1240,312 1237,309 1237,305 1236,304 1205,304"/>
+            </Shape>
+            <String ID="region_0008_line_0001-dummy-Word" HEIGHT="89" WIDTH="216" HPOS="1098" VPOS="304" CONTENT="[Der C]apellen.">
+              <Shape>
+                <Polygon POINTS="1205,304 1203,306 1202,306 1201,307 1200,307 1200,308 1199,309 1199,311 1198,312 1197,312 1197,316 1196,317 1196,318 1195,319 1193,319 1192,320 1143,320 1142,321 1137,321 1134,324 1118,324 1116,326 1116,345 1117,346 1117,348 1119,350 1118,351 1109,351 1108,352 1098,352 1098,378 1122,378 1124,380 1124,382 1125,383 1137,383 1139,385 1139,393 1158,393 1158,391 1162,387 1163,387 1164,386 1165,386 1166,385 1195,385 1196,384 1208,384 1209,383 1246,383 1247,382 1267,382 1268,381 1303,381 1304,380 1313,380 1314,379 1314,347 1307,347 1306,346 1306,344 1305,344 1304,343 1304,342 1302,340 1302,337 1301,336 1301,327 1300,326 1300,325 1299,324 1299,323 1298,322 1298,321 1296,321 1295,320 1280,320 1279,319 1277,319 1276,318 1274,318 1273,317 1269,317 1268,316 1266,316 1265,315 1251,315 1250,314 1244,314 1243,313 1242,313 1241,312 1240,312 1237,309 1237,305 1236,304 1205,304"/>
+              </Shape>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r38" HEIGHT="998" WIDTH="1762" HPOS="301" VPOS="428" TAGREFS="layouttag-paragraph" IDNEXT="r11">
+          <Shape>
+            <Polygon POINTS="301,1426 301,428 2063,428 2063,1426"/>
+          </Shape>
+          <TextLine ID="l4" HEIGHT="110" WIDTH="1719" HPOS="325" VPOS="429">
+            <Shape>
+              <Polygon POINTS="325,502 356,466 1962,429 2044,450 2044,502 811,526 354,539"/>
+            </Shape>
+            <String ID="l4-word0" CONTENT=""/>
+            <String ID="l4-dummy-Word" HEIGHT="110" WIDTH="1719" HPOS="325" VPOS="429" CONTENT="1. D[er] Herr ſprach zu m[ei]nem Herren. à 5.">
+              <Shape>
+                <Polygon POINTS="325,502 356,466 1962,429 2044,450 2044,502 811,526 354,539"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l5" HEIGHT="89" WIDTH="1698" HPOS="351" VPOS="507">
+            <Shape>
+              <Polygon POINTS="351,554 351,538 1991,507 2029,509 2049,540 2048,554 661,596 369,591"/>
+            </Shape>
+            <String ID="l5-word0" CONTENT=""/>
+            <String ID="l5-dummy-Word" HEIGHT="89" WIDTH="1698" HPOS="351" VPOS="507" CONTENT="2. Warumb toben die Heyden. ab 8.">
+              <Shape>
+                <Polygon POINTS="351,554 351,538 1991,507 2029,509 2049,540 2048,554 661,596 369,591"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l6" HEIGHT="103" WIDTH="1688" HPOS="355" VPOS="564">
+            <Shape>
+              <Polygon POINTS="359,619 369,599 1362,583 2017,564 2043,594 2043,619 1256,653 383,667 355,657"/>
+            </Shape>
+            <String ID="l6-word0" CONTENT=""/>
+            <String ID="l6-dummy-Word" HEIGHT="103" WIDTH="1688" HPOS="355" VPOS="564" CONTENT="3. Ich frew mich des da[s mi]r geredt ist. ab 8. ">
+              <Shape>
+                <Polygon POINTS="359,619 369,599 1362,583 2017,564 2043,594 2043,619 1256,653 383,667 355,657"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l7" HEIGHT="87" WIDTH="1702" HPOS="346" VPOS="641">
+            <Shape>
+              <Polygon POINTS="346,701 346,673 2012,641 2048,673 2048,701 372,728"/>
+            </Shape>
+            <String ID="l7-word0" CONTENT=""/>
+            <String ID="l7-dummy-Word" HEIGHT="87" WIDTH="1702" HPOS="346" VPOS="641" CONTENT="4. Herr vnſer Herrſcher [wie] herrlich iſt dein Nam. a 5.">
+              <Shape>
+                <Polygon POINTS="346,701 346,673 2012,641 2048,673 2048,701 372,728"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l8" HEIGHT="95" WIDTH="1700" HPOS="343" VPOS="705">
+            <Shape>
+              <Polygon POINTS="343,753 356,734 2019,705 2043,728 2043,753 349,800"/>
+            </Shape>
+            <String ID="l8-word0" CONTENT=""/>
+            <String ID="l8-dummy-Word" HEIGHT="95" WIDTH="1700" HPOS="343" VPOS="705" CONTENT="5. Dancket dem Herren d[e]nn er iſt freundlich. ab 8.">
+              <Shape>
+                <Polygon POINTS="343,753 356,734 2019,705 2043,728 2043,753 349,800"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l9" HEIGHT="104" WIDTH="1697" HPOS="351" VPOS="761">
+            <Shape>
+              <Polygon POINTS="356,865 351,803 1711,779 2025,761 2048,803 2040,819 1721,819 1328,850"/>
+            </Shape>
+            <String ID="l9-word0" CONTENT=""/>
+            <String ID="l9-dummy-Word" HEIGHT="104" WIDTH="1697" HPOS="351" VPOS="761" CONTENT="6. Ich dancke dem [Her]rn von gantzem hertzen. ab 8.">
+              <Shape>
+                <Polygon POINTS="356,865 351,803 1711,779 2025,761 2048,803 2040,819 1721,819 1328,850"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l10" HEIGHT="101" WIDTH="1693" HPOS="356" VPOS="822">
+            <Shape>
+              <Polygon POINTS="356,895 356,866 1366,857 2019,822 2049,866 2049,895 1199,916 379,923"/>
+            </Shape>
+            <String ID="l10-word0" CONTENT=""/>
+            <String ID="l10-dummy-Word" HEIGHT="101" WIDTH="1693" HPOS="356" VPOS="822" CONTENT="7. Alleluja. Lobet den Herrn in ſeinem Heiligthumb. ab 8.">
+              <Shape>
+                <Polygon POINTS="356,895 356,866 1366,857 2019,822 2049,866 2049,895 1199,916 379,923"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l11" HEIGHT="97" WIDTH="1678" HPOS="366" VPOS="903">
+            <Shape>
+              <Polygon POINTS="378,951 396,940 2023,903 2044,927 2044,940 366,1000"/>
+            </Shape>
+            <String ID="l11-word0" CONTENT=""/>
+            <String ID="l11-dummy-Word" HEIGHT="97" WIDTH="1678" HPOS="366" VPOS="903" CONTENT="8. Iſt nicht Ephraim [mein thewrer Sohn.] ab 8.">
+              <Shape>
+                <Polygon POINTS="378,951 396,940 2023,903 2044,927 2044,940 366,1000"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l12" HEIGHT="100" WIDTH="1697" HPOS="357" VPOS="957">
+            <Shape>
+              <Polygon POINTS="362,1057 357,1002 2028,957 2054,1002 2054,1023 488,1054"/>
+            </Shape>
+            <String ID="l12-word0" CONTENT=""/>
+            <String ID="l12-dummy-Word" HEIGHT="100" WIDTH="1697" HPOS="357" VPOS="957" CONTENT="9. Nun lob mein Seel [den Herren.] à 10.">
+              <Shape>
+                <Polygon POINTS="362,1057 357,1002 2028,957 2054,1002 2054,1023 488,1054"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l13" HEIGHT="91" WIDTH="1724" HPOS="322" VPOS="1042">
+            <Shape>
+              <Polygon POINTS="322,1086 322,1066 1405,1057 2028,1042 2046,1066 2046,1086 1441,1086 333,1133"/>
+            </Shape>
+            <String ID="l13-word0" CONTENT=""/>
+            <String ID="l13-dummy-Word" HEIGHT="91" WIDTH="1724" HPOS="322" VPOS="1042" CONTENT="10. Nicht vns Her[r/ nicht uns/ sondern.] à 4.">
+              <Shape>
+                <Polygon POINTS="322,1086 322,1066 1405,1057 2028,1042 2046,1066 2046,1086 1441,1086 333,1133"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l14" HEIGHT="109" WIDTH="1729" HPOS="320" VPOS="1093">
+            <Shape>
+              <Polygon POINTS="322,1152 324,1137 2021,1093 2049,1129 2049,1152 320,1202"/>
+            </Shape>
+            <String ID="l14-word0" CONTENT=""/>
+            <String ID="l14-dummy-Word" HEIGHT="109" WIDTH="1729" HPOS="320" VPOS="1093" CONTENT="11. Wol dem der d[en Herren fürchtet]. ab 8.">
+              <Shape>
+                <Polygon POINTS="322,1152 324,1137 2021,1093 2049,1129 2049,1152 320,1202"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l15" HEIGHT="103" WIDTH="1726" HPOS="320" VPOS="1160">
+            <Shape>
+              <Polygon POINTS="320,1231 320,1207 2035,1160 2046,1207 2043,1231 1967,1217 329,1263"/>
+            </Shape>
+            <String ID="l15-word0" CONTENT=""/>
+            <String ID="l15-dummy-Word" HEIGHT="103" WIDTH="1726" HPOS="320" VPOS="1160" CONTENT="12. Dancket dem H[erren. Mit Trommeten.] à 5.">
+              <Shape>
+                <Polygon POINTS="320,1231 320,1207 2035,1160 2046,1207 2043,1231 1967,1217 329,1263"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l16" HEIGHT="104" WIDTH="1737" HPOS="320" VPOS="1223">
+            <Shape>
+              <Polygon POINTS="320,1296 320,1267 1965,1223 2035,1234 2057,1267 2057,1296 343,1327"/>
+            </Shape>
+            <String ID="l16-word0" CONTENT=""/>
+            <String ID="l16-dummy-Word" HEIGHT="104" WIDTH="1737" HPOS="320" VPOS="1223" CONTENT="13. Zion ſpricht / der H[err hat mich verlaſſen.] ab. 8.">
+              <Shape>
+                <Polygon POINTS="320,1296 320,1267 1965,1223 2035,1234 2057,1267 2057,1296 343,1327"/>
+              </Shape>
+            </String>
+          </TextLine>
+          <TextLine ID="l17" HEIGHT="67" WIDTH="718" HPOS="326" VPOS="1330">
+            <Shape>
+              <Polygon POINTS="326,1397 326,1330 1044,1330 1044,1397"/>
+            </Shape>
+            <String ID="l17-word0" CONTENT=""/>
+            <String ID="l17-dummy-Word" HEIGHT="67" WIDTH="718" HPOS="326" VPOS="1330" CONTENT="14. Jauchtzet dem Herre[n. à 5.]">
+              <Shape>
+                <Polygon POINTS="326,1397 326,1330 1044,1330 1044,1397"/>
+              </Shape>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r10" HEIGHT="163" WIDTH="654" HPOS="765" VPOS="137" TAGREFS="layouttag-header" IDNEXT="region_0008">
+          <Shape>
+            <Polygon POINTS="765,300 765,137 1419,137 1419,300"/>
+          </Shape>
+          <TextLine ID="l18" HEIGHT="142" WIDTH="616" HPOS="786" VPOS="154">
+            <Shape>
+              <Polygon POINTS="786,296 786,154 1402,154 1402,296"/>
+            </Shape>
+            <String ID="l18-word0" CONTENT=""/>
+            <String ID="l18-dummy-Word" HEIGHT="142" WIDTH="616" HPOS="786" VPOS="154" CONTENT="INDEX">
+              <Shape>
+                <Polygon POINTS="786,296 786,154 1402,154 1402,296"/>
+              </Shape>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="r11" HEIGHT="260" WIDTH="768" HPOS="890" VPOS="1516" TAGREFS="layouttag-paragraph">
+          <Shape>
+            <Polygon POINTS="890,1776 890,1516 1658,1516 1658,1776 1653,1776"/>
+          </Shape>
+          <TextLine ID="l19" HEIGHT="186" WIDTH="712" HPOS="899" VPOS="1549">
+            <Shape>
+              <Polygon POINTS="899,1735 899,1549 1611,1549 1611,1735"/>
+            </Shape>
+            <String ID="l19-word0" CONTENT=""/>
+            <String ID="l19-dummy-Word" HEIGHT="186" WIDTH="712" HPOS="899" VPOS="1549" CONTENT="F[INIS.]">
+              <Shape>
+                <Polygon POINTS="899,1735 899,1549 1611,1549 1611,1735"/>
+              </Shape>
+            </String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
