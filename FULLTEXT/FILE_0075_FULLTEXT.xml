@@ -37,8 +37,8 @@
   <Styles/>
   <Tags>
     <LayoutTag ID="layouttag-paragraph" LABEL="paragraph"/>
-    <LayoutTag ID="layouttag-marginalia" LABEL="marginalia"/>
     <LayoutTag ID="layouttag-header" LABEL="header"/>
+    <LayoutTag ID="layouttag-marginalia" LABEL="marginalia"/>
   </Tags>
   <Layout>
     <Page ID="FILE_0075_LAREX" PHYSICAL_IMG_NR="0" WIDTH="2376" HEIGHT="3648">

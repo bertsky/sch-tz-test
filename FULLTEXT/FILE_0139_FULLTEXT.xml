@@ -36,8 +36,8 @@
   </Description>
   <Styles/>
   <Tags>
-    <LayoutTag ID="layouttag-paragraph" LABEL="paragraph"/>
     <LayoutTag ID="layouttag-header" LABEL="header"/>
+    <LayoutTag ID="layouttag-paragraph" LABEL="paragraph"/>
   </Tags>
   <Layout>
     <Page ID="FILE_0139_LAREX" PHYSICAL_IMG_NR="0" WIDTH="2376" HEIGHT="3648">
